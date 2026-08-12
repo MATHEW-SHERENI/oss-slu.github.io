@@ -1,16 +1,14 @@
 ---
 title: Building Material-Derailleur - A Unified Donation and Inventory Platform
 description: A practical overview of Material-Derailleur, an open-source donation, inventory, and donor engagement platform for community organizations.
+date: 2026-05-07T09:00:00-05:00
 slug: building-material-derailleur
-authors:
-  - name: Mathew Shereni
-    title: Tech Lead
-    url: https://github.com/MATHEW-SHERENI
+authors: [mathew]
 tags: [community-impact, donation-management, inventory, open-source, software-engineering]
 hide_table_of_contents: false
 ---
 
-Material-Derailleur is an open-source donation, inventory, and donor engagement platform developed to help community organizations manage donated physical goods with clarity, accountability, and operational efficiency. The platform supports donation intake, item tracking, barcode labeling, donor records, and status updates through a centralized web application built for real-world nonprofit and volunteer-driven workflows.
+Material-Derailleur is an open-source project designed to streamline the process of managing donations, providing a transparent view into the journey of each donated item. This initiative allows donors to track their contributions from the moment they are donated to their ultimate use, offering them a detailed view of how their items are making a difference. By keeping donors informed about the status and use of their donations, the project fosters a sense of trust and community, encouraging continued support and involvement. The system simplifies the administrative tasks involved in updating and managing donations, making it easier to attract and retain donors who are motivated by seeing the tangible impact of their contributions..
 
 <!--truncate-->
 
@@ -20,7 +18,7 @@ Material-Derailleur is an open-source donation, inventory, and donor engagement 
 **Where:** Open Source with SLU / Saint Louis University<br/>
 **Project:** Material-Derailleur, a donation and inventory management platform for community organizations<br/>
 
-![Material-Derailleur donated item details page](./donated-item-details.png)
+![Material-Derailleur donated item details page](./donateditems.png)
 
 ## Why Donation Management Matters
 
@@ -30,7 +28,7 @@ The operational challenge is larger than simply storing records. Staff need to k
 
 Material-Derailleur was created to reduce this friction. The platform gives community organizations a structured system for tracking donations from intake through storage and distribution, helping teams move from reactive recordkeeping toward more reliable inventory management.
 
-![Material-Derailleur donated items dashboard](./donated-items-dashboard.png)
+![Material-Derailleur donated items dashboard](./donatedItem.png)
 
 ## The Motivation Behind Material-Derailleur
 
@@ -72,7 +70,7 @@ These features are designed to make the system useful in day-to-day operations. 
 
 The donor relationship does not end when an item is received. Effective donation management also requires communication, trust, and continued engagement. Material-Derailleur helps organizations maintain donor details and connect donations to donor history, making it easier to acknowledge contributions and understand giving patterns over time.
 
-![Donor engagement lifecycle](./donor-engagement-lifecycle.png)
+![Donor engagement lifecycle](./donorEngagement.png)
 
 The donor engagement lifecycle highlights how organized tracking can support stronger communication, build trust, and encourage future participation. When donor records and donation histories are easy to access, organizations are better positioned to maintain meaningful relationships with supporters.
 
@@ -80,7 +78,7 @@ The donor engagement lifecycle highlights how organized tracking can support str
 
 Material-Derailleur is built as a modern full-stack application. The frontend provides a responsive user interface for staff and volunteers, while the backend exposes REST API endpoints for donation, donor, inventory, authentication, and status-management workflows.
 
-![Material-Derailleur architecture overview](./architecture-overview.png)
+![Material-Derailleur architecture overview](./architectureDiagram.png)
 
 The architecture separates the client interface, API layer, database, and file storage so the system remains maintainable as it grows.
 
@@ -108,7 +106,7 @@ Most importantly, Material-Derailleur shows how software engineering can support
 
 Material-Derailleur is led by:
 
-- [Mathew Shereni](https://github.com/MATHEW-SHERENI), Tech Lead
+- [Mathew Shereni](https://github.com/MATHEW-SHERENI), Tech Lead at Open Source with SLU
 
 The current development team includes:
 

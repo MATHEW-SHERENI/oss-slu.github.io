@@ -18,7 +18,7 @@ Material-Derailleur is an open-source project designed to streamline the process
 **Where:** Open Source with SLU / Saint Louis University<br/>
 **Project:** Material-Derailleur, a donation and inventory management platform for community organizations<br/>
 
-![Material-Derailleur donated item details page](./donateditems.png)
+![Material-Derailleur donated item details page](./donatedItems.png)
 
 ## Why Donation Management Matters
 

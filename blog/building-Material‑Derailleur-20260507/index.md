@@ -8,7 +8,7 @@ tags: [community-impact, donation-management, inventory, open-source, software-e
 hide_table_of_contents: false
 ---
 
-Material-Derailleur is an open-source project designed to streamline the process of managing donations, providing a transparent view into the journey of each donated item. This initiative allows donors to track their contributions from the moment they are donated to their ultimate use, offering them a detailed view of how their items are making a difference. By keeping donors informed about the status and use of their donations, the project fosters a sense of trust and community, encouraging continued support and involvement. The system simplifies the administrative tasks involved in updating and managing donations, making it easier to attract and retain donors who are motivated by seeing the tangible impact of their contributions..
+Material-Derailleur is an open-source project designed to streamline the process of managing donations, providing a transparent view into the journey of each donated item. This initiative allows donors to track their contributions from the moment they are donated to their ultimate use, offering them a detailed view of how their items are making a difference. By keeping donors informed about the status and use of their donations, the project fosters a sense of trust and community, encouraging continued support and involvement. The system simplifies the administrative tasks involved in updating and managing donations, making it easier to attract and retain donors who are motivated by seeing the tangible impact of their contributions.
 
 <!--truncate-->
 
@@ -100,7 +100,7 @@ Material-Derailleur demonstrates the importance of designing software around rea
 
 The project also reinforces the importance of contributor onboarding in open-source software. Open-source projects depend on contributors being able to understand the codebase, configure the development environment, and make meaningful contributions. Clear documentation, consistent naming, organized components, and readable API structures are essential to long-term maintainability.
 
-Most importantly, Material-Derailleur shows how software engineering can support community impact. By improving the reliability of donation and inventory workflows, the platform helps organizations spend less time searching through disconnected records and more time serving their communities.
+Most importantly, Material-Derailleur shows how software engineering can support community impact. By improving the reliability of donation and inventory workflows, the platform helps organizations spend less time searching through disconnected records and more time-serving their communities.
 
 ## Current Developers
 

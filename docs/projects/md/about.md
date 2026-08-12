@@ -13,7 +13,7 @@ MaterialDerailleur shifts donations into drive for BWorks. It streamlines the pr
 - **Source Code:** [https://github.com/oss-slu/material-derailleur](https://github.com/oss-slu/material-derailleur) [<img src="/img/git-alt.svg" alt="git" width="25" height="25" />](https://github.com/oss-slu/material-derailleur)
 - **Client:** BWorks Organization
 - **Track:** Client-driven Product
-- **Current Tech Lead:** Mathew Shereni [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/MATHEW-SHERENI)
+- **Current Tech Lead:** [Mathew Shereni](https://mathewshereni.com/) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/MATHEW-SHERENI) [<img src="/img/linkedin.svg" alt="linkedin" width="25" height="25" />](https://www.linkedin.com/in/mathew-shereni-213130aa/)
 - **Developers:**
   - Cole Patrick (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/colepatrick)
   - Tori Willis (capstone) [<img src="/img/github.svg" alt="github" width="25" height="25" />](https://github.com/twillis8)
